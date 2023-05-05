@@ -1,0 +1,15 @@
+Zdefiniuj klasę ChessBoard, która reprezentuje planszę do gry w szachy. Klasa ta powinna zawierać informacje o aktualnym stanie planszy, takie jak położenie figur, możliwe ruchy, ostatni ruch itp.
+
+Napisz klasę ChessPiece, która reprezentuje każdą figurę na planszy. Klasa ta powinna zawierać informacje o kolorze figury, jej typie i pozycji na planszy.
+
+Zdefiniuj klasę Game, która będzie zarządzać grą w szachy, tzn. inicjować planszę, przetwarzać ruchy graczy i wykonywać inne operacje związane z grą.
+
+Zaplanuj interfejs użytkownika, który będzie umożliwiał graczom wykonywanie ruchów na planszy. Interfejs może zawierać elementy takie jak plansza do gry, lista możliwych ruchów, pole tekstowe z historią ruchów itp.
+
+Zaimplementuj algorytm do obliczania możliwych ruchów dla każdej figury na planszy. Możesz wykorzystać algorytmy szachowe takie jak szachownica bitowa lub Minimax z cięciami alfa-beta.
+
+Napisz kod, który pozwoli graczom na wykonanie ruchów na planszy. Możesz wykorzystać bibliotekę WinForms lub WPF do stworzenia interfejsu użytkownika i obsługi zdarzeń takich jak kliknięcia na planszy.
+
+Dodaj funkcjonalności takie jak wykrywanie szachów i szach-matów, przesuwanie figur, bicia innych figur itp.
+
+Mam nadzieję, że te wskazówki pomogą Ci w stworzeniu aplikacji do gry w szachy w C#. Pamiętaj, że jest to tylko podstawowy plan, a sam proces tworzenia aplikacji może wymagać dokładniejszej analizy i implementacji.

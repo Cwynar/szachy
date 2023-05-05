@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\about.html",
+      "PackagePath": "staticwebassets\\szachy\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\contact.html",
+      "PackagePath": "staticwebassets\\szachy\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\Chess_symbols.svg",
+      "PackagePath": "staticwebassets\\szachy\\figury\\Chess_symbols.svg"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\białe\\bishop.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\białe\\bishop.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\białe\\king.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\białe\\king.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\białe\\knight.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\białe\\knight.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\białe\\pawn.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\białe\\pawn.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\białe\\queen.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\białe\\queen.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\białe\\rook.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\białe\\rook.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\czarne\\bishop.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\czarne\\bishop.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\czarne\\king.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\czarne\\king.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\czarne\\knight.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\czarne\\knight.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\czarne\\pawn.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\czarne\\pawn.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\czarne\\queen.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\czarne\\queen.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\figury\\czarne\\rook.png",
+      "PackagePath": "staticwebassets\\szachy\\figury\\czarne\\rook.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\king.png",
+      "PackagePath": "staticwebassets\\szachy\\king.png"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\rules.txt",
+      "PackagePath": "staticwebassets\\szachy\\rules.txt"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\style.css",
+      "PackagePath": "staticwebassets\\szachy\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\style1.css",
+      "PackagePath": "staticwebassets\\szachy\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\szachy.html",
+      "PackagePath": "staticwebassets\\szachy\\szachy.html"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\szachy.txt",
+      "PackagePath": "staticwebassets\\szachy\\szachy.txt"
+    },
+    {
+      "Id": "C:\\Users\\areck\\source\\repos\\chess\\chess\\wwwroot\\szachy\\ustawienia.html",
+      "PackagePath": "staticwebassets\\szachy\\ustawienia.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.chess.props",
+      "PackagePath": "build\\chess.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.chess.props",
+      "PackagePath": "buildMultiTargeting\\chess.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.chess.props",
+      "PackagePath": "buildTransitive\\chess.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.chess.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
